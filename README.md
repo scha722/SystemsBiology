@@ -1,5 +1,5 @@
 # Systems Biology
-Systems Biology Final project is a project purposed on replication of the results shown in the article named 'Deep learning decodes the principles of differential gene expression' by Shinya Tasaki. 
+Systems Biology Final project is a project purposed on replication of the results shown in the article named *'Deep learning decodes the principles of differential gene expression'* by *Shinya Tasaki*. 
 
 This repository contains two files named **SystemsBiology.ipynb** and **SystemsBiology2.ipynb**
 
